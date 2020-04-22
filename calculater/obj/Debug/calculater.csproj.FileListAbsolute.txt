@@ -1,0 +1,7 @@
+C:\Users\egrushina\Desktop\Labs\calculater\bin\Debug\calculater.exe.config
+C:\Users\egrushina\Desktop\Labs\calculater\bin\Debug\calculater.exe
+C:\Users\egrushina\Desktop\Labs\calculater\bin\Debug\calculater.pdb
+C:\Users\egrushina\Desktop\Labs\calculater\obj\Debug\calculater.csprojAssemblyReference.cache
+C:\Users\egrushina\Desktop\Labs\calculater\obj\Debug\calculater.csproj.CoreCompileInputs.cache
+C:\Users\egrushina\Desktop\Labs\calculater\obj\Debug\calculater.exe
+C:\Users\egrushina\Desktop\Labs\calculater\obj\Debug\calculater.pdb

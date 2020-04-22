@@ -1,0 +1,7 @@
+C:\Users\egrushina\Desktop\Labs\ChetString\bin\Debug\ChetString.exe.config
+C:\Users\egrushina\Desktop\Labs\ChetString\bin\Debug\ChetString.exe
+C:\Users\egrushina\Desktop\Labs\ChetString\bin\Debug\ChetString.pdb
+C:\Users\egrushina\Desktop\Labs\ChetString\obj\Debug\ChetString.csprojAssemblyReference.cache
+C:\Users\egrushina\Desktop\Labs\ChetString\obj\Debug\ChetString.csproj.CoreCompileInputs.cache
+C:\Users\egrushina\Desktop\Labs\ChetString\obj\Debug\ChetString.exe
+C:\Users\egrushina\Desktop\Labs\ChetString\obj\Debug\ChetString.pdb

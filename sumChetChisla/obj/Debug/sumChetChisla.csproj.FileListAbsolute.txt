@@ -1,0 +1,7 @@
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\bin\Debug\sumChetChisla.exe.config
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\bin\Debug\sumChetChisla.exe
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\bin\Debug\sumChetChisla.pdb
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\obj\Debug\sumChetChisla.csprojAssemblyReference.cache
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\obj\Debug\sumChetChisla.csproj.CoreCompileInputs.cache
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\obj\Debug\sumChetChisla.exe
+C:\Users\egrushina\Desktop\Labs\sumChetChisla\obj\Debug\sumChetChisla.pdb
